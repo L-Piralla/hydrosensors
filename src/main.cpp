@@ -4,8 +4,8 @@ const int SENSOR_PIN = 4;
 
 const int AVG_LEN = 16;
 
-const int DRY_MV = 2260;
-const int WET_MV = 950;
+const int DRY_MV = 2200;
+const int WET_MV = 900;
 
 const int DRY_HUM_THR = 30;
 const int MED_HUM_THR = 60;
